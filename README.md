@@ -45,7 +45,10 @@ Gallery App utilizes several third-party libraries to enhance its functionality.
 ![WhatsApp Image 2023-10-01 at 23 47 12](https://github.com/Sadhu54/Gallery_app/assets/41671404/a11413d3-8320-49c9-a96e-3c9564f8b78d)
 
 ### Feature 2: Search result Grid Page
+![WhatsApp Image 2023-10-01 at 23 47 12 (1)](https://github.com/Sadhu54/Gallery_app/assets/41671404/41d6c483-a253-4593-b037-4f52e4c04ed3)
 
 ### Feature 3: Search result Empty Page
+![WhatsApp Image 2023-10-01 at 23 47 12 (2)](https://github.com/Sadhu54/Gallery_app/assets/41671404/f909ff87-d5b0-4670-b799-437a9dd898a7)
+
 
  
